@@ -116,7 +116,7 @@ This project demonstrates the fundamentals of digital banking operations and can
 - Improve validation and user feedback
 
 ## Author
-Nadeem (or your name)
+Sahil Abbas Nadaf
 
 ---
 If this repository helped you, consider starring it on GitHub.
